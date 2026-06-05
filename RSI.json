@@ -1,0 +1,9 @@
+ {
+ "rsi_scale": [
+    {"min": 0, "max": 1.5, "label": "Needs Improvement"},
+    {"min": 1.5, "max": 2.0, "label": "Fair"},
+    {"min": 2.0, "max": 2.5, "label": "Intermediate"},
+    {"min": 2.5, "max": 3, "label": "Advanced"},
+    {"min": 3.0, "max": 100, "label": "Elite"}
+  ]
+}
